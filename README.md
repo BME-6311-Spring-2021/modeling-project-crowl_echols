@@ -25,14 +25,14 @@ turtle consumes bacteria2. In our report, the slider was set to 3.
 if it comes into contact. This setting was not used in our final report, as it did not
 significantly change the conclusions made.
 
-6. The plot was included to count total bacteria, total bacteria #1 and total bacteria #2
+6. The plot was updated to include counts of total bacteria, bacteria1 and bacteria2
 
 ### Data Files
 
-There are two different .csv files that hold the data used for our report. In the one
-cell experiment file, this holds the data for the 10 runs with only bacteria2 present.
-In the two cell experiment file is the data for when both bacteria species were present.
-This includes results for both when bacteria2 is and is not predatory.
+There are two different .csv files that hold the data used for our report. The 'one_cell_experiments_ver5.csv' file 
+holds the data for 10 runs with only bacteria2 present. The 'two_cell_experiments_ver5.csv' file has the data for runs when 
+both bacteria agents were present. This includes results for both when bacteria1 is 
+and is not predatory.
 
 ### Code
 
